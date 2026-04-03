@@ -5,7 +5,7 @@ In Module 7, you explored how assurance, verification, and transparency strength
 
 Rather than scanning application code, you will analyze the Ubuntu Linux system that powers your GitHub Codespace - enumerating installed packages, identifying vulnerabilities, applying patches, and validating the system’s security posture using a second SBOM and vulnerability scan. 
 
-In their Security Engineering principles, <b><a href="https://doi.org/10.1109/PROC.1975.9939" target="_blank">(Saltzer & Schroeder, 1975)</a></b> emphasized that every access — and by extension, every component — must be continuously verified to maintain trust. By applying this principle to your Codespaces environment, the lab illustrates how assurance extends beyond applications to the underlying platform itself. Through system-level SBOM generation, vulnerability assessment, and patch verification, you will connect visibility (SBOM) with action (patching) — strengthening the assurance needed for secure operations.
+In their Security Engineering principles, <b><a href="https://doi.org/10.1109/PROC.1975.9939" target="_blank">(**Saltzer & Schroeder, 1975**)</a></b> emphasized that every access — and by extension, every component — must be continuously verified to maintain trust. By applying this principle to your Codespaces environment, the lab illustrates how assurance extends beyond applications to the underlying platform itself. Through system-level SBOM generation, vulnerability assessment, and patch verification, you will connect visibility (SBOM) with action (patching) — strengthening the assurance needed for secure operations.
 
 ### **Learning Objectives**
 After completing this lab, you will be able to:
@@ -221,7 +221,7 @@ deliverables/
 
 1. Copy your forked repository URL: Go to your forked repo on GitHub (it should look something like):
    
-     `https://github.com/<your-username>/eng298-fa25-mod7-sbom-lab2`
+     `https://github.com/<your-username>/eng298-sp26-mod7-sbom-lab2`
    
    - Copy the URL from your browser’s address bar.
 
