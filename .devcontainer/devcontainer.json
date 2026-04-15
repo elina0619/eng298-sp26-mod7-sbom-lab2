@@ -1,6 +1,6 @@
 
 {
-  "name": "ENG 298 (FA 25) – Module 7: Assignment: Maintaining Secure Systems with SBOMs and Patchings",
+  "name": "ENG 298 (SP 26) – Module 7: Assignment: Maintaining Secure Systems with SBOMs and Patchings",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
 
   "features": {
